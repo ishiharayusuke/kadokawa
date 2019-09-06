@@ -1,2 +1,3 @@
 # gitだよ
 # kadokawa
+# kadokawa
